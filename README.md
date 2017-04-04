@@ -37,3 +37,5 @@ Grbl port is HALified; driver supports jogging, power setting/override and coola
 
 
 More info over at [buildlog.net](http://www.buildlog.net/buildlog/view_log.php?id=2625&dir=asc)
+
+A [YouTube]( https://www.youtube.com/watch?v=nkeuVN_bmTo&t=1s) video showing my laser cutting a mylar PCB stencil.
